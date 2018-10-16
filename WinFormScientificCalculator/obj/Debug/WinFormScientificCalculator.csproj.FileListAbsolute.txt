@@ -1,0 +1,12 @@
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\bin\Debug\WinFormScientificCalculator.exe.config
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\bin\Debug\WinFormScientificCalculator.exe
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\bin\Debug\WinFormScientificCalculator.pdb
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.Form1.resources
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.Properties.Resources.resources
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.csproj.GenerateResource.cache
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.csproj.CoreCompileInputs.cache
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.exe
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.pdb
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\bin\Debug\MathNet.Numerics.dll
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\bin\Debug\MathNet.Numerics.xml
+D:\IDB_C#38\C#\Calculator\WinFormScientificCalculator\WinFormScientificCalculator\obj\Debug\WinFormScientificCalculator.csproj.CopyComplete
